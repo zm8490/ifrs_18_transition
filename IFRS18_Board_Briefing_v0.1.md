@@ -16,6 +16,7 @@ Presentation and Disclosure in Financial Statements, effective for annual period
 3. **The comparative year is already running.** For a 31 December year end, 2026 comparatives must be restated, so account mapping and data capture need to start now.
 
 **We ask the Committee to:**
+
 - Endorse the transition plan and governance
 - Agree principles for our adjusted measures
 - Mandate a review of loan covenants and incentive targets
@@ -126,6 +127,7 @@ New principles on when to combine and when to split items, and less use of ‘ot
 ## 8. Management-defined performance measures: our adjusted numbers move into the audited accounts
 
 **Is it an MPM? All three must apply:**
+
 - A subtotal of income and expenses
 - Used in public communication outside the financial statements
 - Shows management’s view of an aspect of our performance
@@ -133,6 +135,7 @@ New principles on when to combine and when to split items, and less use of ‘ot
 *Not MPMs:* gross profit, IFRS subtotals, EBITDA defined as operating profit before depreciation, amortisation and IAS 36 impairments, and non-P&L measures such as free cash flow.
 
 **What we disclose, in one audited note:**
+
 - What it measures and why it is useful
 - Reconciliation to the closest IFRS subtotal
 - Tax and non-controlling interest effect of each adjustment
@@ -145,12 +148,14 @@ New principles on when to combine and when to split items, and less use of ‘ot
 ## 9. Notes and cash flow: more granular notes, a tidier cash flow statement
 
 **Aggregation and disaggregation**
+
 - Group alike items; split items that differ
 - Avoid ‘other’, or explain what it holds
 - Statements summarise, notes give the detail
 - Shown by function? Then disclose depreciation, amortisation, staff costs, impairments and inventory write-downs in one note
 
 **Statement of cash flows**
+
 - Indirect method starts from operating profit
 - Interest and dividends paid: financing
 - Interest and dividends received: investing
@@ -215,6 +220,7 @@ New principles on when to combine and when to split items, and less use of ‘ot
 ## 14. Before the next meeting: assumptions to confirm and next steps
 
 **Assumptions in this draft**
+
 - Year end 31 December; first IFRS 18 year is FY2027
 - Listed group with half-yearly reporting
 - Non-financial group: no banking, insurance or investing main activity
@@ -223,6 +229,7 @@ New principles on when to combine and when to split items, and less use of ‘ot
 - Regulator adopts the IASB effective date
 
 **Next steps**
+
 - Account-level impact on FY2025 results: [date]
 - MPM inventory from latest results: [date]
 - Covenant and bonus review with Legal and HR: [date]
